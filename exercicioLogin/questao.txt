@@ -1,0 +1,7 @@
+O exemplo apresenta um código em php para login e autenticação do usuário no banco de dados. Entretanto, o código aceita cadastro com usuário e/ou senha vazios e repetidos.
+
+Sendo assim, o exercício é:
+
+- Resolver este problema no código, evitando o cadastro de usuários iguais e nulos.
+
+- Incluir uma nova opção no menu, de Alterar Usuário. Este botão deverá permitir que o usuário vá para uma página de Alteração de Usuário e possa digitar o nome do usuário atual e o nome do novo usuário.

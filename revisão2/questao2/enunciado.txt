@@ -1,0 +1,21 @@
+Usando o Workbench, crie um Banco de Dados cujo nome será: almoxarifado.
+Dentro do Banco de Dados criado, crie uma tabela chamada tb_ferramentas, com três
+campos:
+Campo Tipo Tamanho obs
+cod_ferramenta int Auto_increment/ChavePrimária
+$login = array("user01", "user02", "user03", "user04", "user05");
+$senha = array("senha01", "senha02", "senha03", "senha04", "senha05");
+nome_ferramenta varchar 80
+marca_ferramenta varchar 60
+a. Crie os seguintes arquivos PHP dentro de um diretório chamado
+almoxarifado na pasta c:\xampp/htdocs/sistema:
+▪ conecta.php => Página que possui os dados para conexão ao MySQL
+e seleção do BD;
+▪ index.php => Página principal, que conterá os links (botões) para as
+demais páginas;
+▪ cadastrar_ferramentas.php=> Página de Cadastro de Ferramentas;
+▪ consultar_ferramentas.php => Página de consulta de Ferramentas;
+b. Faça um formulário de inserção de ferramentas no arquivo “Cadastrar
+Ferramentas”
+b. Faça um formulário de consulta/pesquisa de ferramentas no arquivo
+“Consultar Ferramentas”
